@@ -1,1 +1,2 @@
-# skilltest
+string =hellowprld
+print ("string)
